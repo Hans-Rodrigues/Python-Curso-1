@@ -1,4 +1,4 @@
-Curso de Python - Fundamentos
+## Curso de Python - Fundamentos
 
 Este repositório contém exercícios e projetos desenvolvidos durante meu curso de Python.
 
